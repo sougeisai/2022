@@ -1,0 +1,212 @@
+body {
+  font-family: 'Hiragino Kaku Gothic Pro', 'Meiryo', sans-serif;
+}
+
+h2 {
+  color: #364e96;
+  border: solid 3px #364e96;
+  padding: 0.5em;
+  border-radius: 0.5em;
+}
+
+header{
+	width:100%;
+	height:800px;
+	background-image:url("img/header.jpg");
+	background-size:cover;
+	background-position:center;
+	}
+
+.head_container{
+	display:flex;
+	padding:10px;
+	justify-content:space-between;
+	}
+	
+	
+.head_item{
+	list-style-type:none;
+	padding-right:30px;
+	}
+	
+.link_button1 {
+  font-weight: bold;/*螟ｪ蟄励↓*/
+  text-decoration: none;/*荳狗ｷ壽ｶ医☆*/
+  background: skyblue;/*閭梧勹繧呈ｰｴ濶ｲ縺ｫ*/
+  color:white;/*譁�ｭ励ｒ逋ｽ縺ｫ*/
+  padding:5px 10px;/*蜀��縺ｮ菴咏區*/
+  border-radius: 20px;/*隗偵ｒ荳ｸ縺上☆繧�*/
+  font-family: 'Avenir','Arial';/*繝輔か繝ｳ繝医ｒ縺�＞諢溘§縺ｫ*/
+}
+/*莉･荳九き繝ｼ繧ｽ繝ｫ繧貞ｽ薙※縺溘→縺�*/
+.link_button:hover {
+  background: silver;/*閭梧勹濶ｲ繧偵す繝ｫ繝舌�縺ｫ*/
+  text-decoration: none;/*荳狗ｷ壹ｒ豸医☆*/
+}
+
+/*莉･荳玖ｨｪ蝠乗ｸ医∩縺ｮ繝�じ繧､繝ｳ*/
+.link_button:visited {
+  color: gray;/*譁�ｭ励ｒ繧ｰ繝ｬ繧､縺ｫ*/
+}
+
+.link_button2 {
+  font-weight: bold;/*螟ｪ蟄励↓*/
+  text-decoration: none;/*荳狗ｷ壽ｶ医☆*/
+  background: skyblue;/*閭梧勹繧呈ｰｴ濶ｲ縺ｫ*/
+  color:white;/*譁�ｭ励ｒ逋ｽ縺ｫ*/
+  padding:5px 10px;/*蜀��縺ｮ菴咏區*/
+  border-radius: 20px;/*隗偵ｒ荳ｸ縺上☆繧�*/
+  font-family: 'Avenir','Arial';/*繝輔か繝ｳ繝医ｒ縺�＞諢溘§縺ｫ*/
+}
+/*莉･荳九き繝ｼ繧ｽ繝ｫ繧貞ｽ薙※縺溘→縺�*/
+.link_button:hover {
+  background: silver;/*閭梧勹濶ｲ繧偵す繝ｫ繝舌�縺ｫ*/
+  text-decoration: none;/*荳狗ｷ壹ｒ豸医☆*/
+}
+
+/*莉･荳玖ｨｪ蝠乗ｸ医∩縺ｮ繝�じ繧､繝ｳ*/
+.link_button:visited {
+  color: gray;/*譁�ｭ励ｒ繧ｰ繝ｬ繧､縺ｫ*/
+}
+
+.link_button3 {
+  font-weight: bold;/*螟ｪ蟄励↓*/
+  text-decoration: none;/*荳狗ｷ壽ｶ医☆*/
+  background: skyblue;/*閭梧勹繧呈ｰｴ濶ｲ縺ｫ*/
+  color:white;/*譁�ｭ励ｒ逋ｽ縺ｫ*/
+  padding:5px 10px;/*蜀��縺ｮ菴咏區*/
+  border-radius: 20px;/*隗偵ｒ荳ｸ縺上☆繧�*/
+  font-family: 'Avenir','Arial';/*繝輔か繝ｳ繝医ｒ縺�＞諢溘§縺ｫ*/
+}
+/*莉･荳九き繝ｼ繧ｽ繝ｫ繧貞ｽ薙※縺溘→縺�*/
+.link_button1:hover {
+  background: silver;/*閭梧勹濶ｲ繧偵す繝ｫ繝舌�縺ｫ*/
+  text-decoration: none;/*荳狗ｷ壹ｒ豸医☆*/
+}
+
+.link_button2:hover {
+  background: silver;/*閭梧勹濶ｲ繧偵す繝ｫ繝舌�縺ｫ*/
+  text-decoration: none;/*荳狗ｷ壹ｒ豸医☆*/
+}
+
+.link_button3:hover {
+  background: silver;/*閭梧勹濶ｲ繧偵す繝ｫ繝舌�縺ｫ*/
+  text-decoration: none;/*荳狗ｷ壹ｒ豸医☆*/
+}
+
+
+	
+ul a {
+	text-decoration: none;
+	color:white;
+	hover:red;
+	}
+	
+a:visited{
+	color:white;
+	}
+	
+	
+	
+	
+header ul li{
+	display:inline-block;
+	}
+	
+nav ul{
+	list-style-type:none;
+	text-align:center;
+	}
+	
+nav li{
+	display:inline-block;
+	width:250px;
+	text-align:center;
+	}
+	
+.container{
+	padding-left:50px;
+	}
+	
+	
+.item02 img{
+	width:50%;
+	height:50%;
+	}
+	
+.SNS{
+	display: flex;
+	}
+	
+.SNS-icon{
+	padding-bottom:120px;
+	}
+	
+.attention{
+	padding-left:50px;
+	padding-bottom:50px;
+	}
+	
+footer{
+	text-align:center;
+	padding-top:30px;
+	padding-bottom:20px;
+	padding-left:20px;
+	background-color:gray;
+	}
+	
+
+
+	.map {
+	margin: 16px auto;
+	text-align: center;
+	display: block;
+}
+.map .text {
+	text-align: left;
+	display: inline-block;
+}
+	
+	
+	
+.follow-me {
+  list-style: none;
+  margin: 0 0 -8px;
+  overflow: hidden;
+}
+
+.follow-me li {
+  float: left;
+  margin: 0 8px 8px 0;
+  padding: 0;
+}
+
+.follow-me li a::before {
+  border-style: solid;
+  border-width: 1px;
+  -webkit-border-radius: 2px;
+  border-radius: 2px;
+  color: #fff;
+  display: inline-block;
+  font-family: FontAwesome;
+  font-size: 26px;
+  height: 42px; /* Button height */
+  line-height: 42px; /* Button height */
+  -webkit-transition: all .3s ease;
+  transition: all .3s ease;
+  text-align: center;
+  width: 142px; /* Button width */
+}
+
+.follow-me li a[href*="twitter.com"]::before        { border-color: #55acee; background-color: #55acee; content: "\f099"; }
+
+.follow-me li a[href*="instagram.com"]::before      { border-color: #125688; background-color: #125688; content: "\f16d"; }
+
+.follow-me li a:hover::before {
+  background-color: #fff;
+}
+
+.follow-me li a[href*="https://twitter.com/home"]:hover::before        { color: #55acee; }
+
+.follow-me li a[href*="https://www.instagram.com"]:hover::before      { color: #12568; }
+
