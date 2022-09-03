@@ -30,68 +30,94 @@ header{
 	}
 	
 .link_button1 {
-  font-weight: bold;/*螟ｪ蟄励↓*/
-  text-decoration: none;/*荳狗ｷ壽ｶ医☆*/
-  background: skyblue;/*閭梧勹繧呈ｰｴ濶ｲ縺ｫ*/
-  color:white;/*譁�ｭ励ｒ逋ｽ縺ｫ*/
-  padding:5px 10px;/*蜀��縺ｮ菴咏區*/
-  border-radius: 20px;/*隗偵ｒ荳ｸ縺上☆繧�*/
-  font-family: 'Avenir','Arial';/*繝輔か繝ｳ繝医ｒ縺�＞諢溘§縺ｫ*/
+  font-weight: bold;/*太字に*/
+  text-decoration: none;/*下線消す*/
+  background: skyblue;/*背景を水色に*/
+  color:white;/*文字を白に*/
+  padding:5px 10px;/*内側の余白*/
+  border-radius: 20px;/*角を丸くする*/
+  font-family: 'Avenir','Arial';/*フォントをいい感じに*/
 }
-/*莉･荳九き繝ｼ繧ｽ繝ｫ繧貞ｽ薙※縺溘→縺�*/
+/*以下カーソルを当てたとき*/
 .link_button:hover {
-  background: silver;/*閭梧勹濶ｲ繧偵す繝ｫ繝舌�縺ｫ*/
-  text-decoration: none;/*荳狗ｷ壹ｒ豸医☆*/
+  background: silver;/*背景色をシルバーに*/
+  text-decoration: none;/*下線を消す*/
 }
 
-/*莉･荳玖ｨｪ蝠乗ｸ医∩縺ｮ繝�じ繧､繝ｳ*/
+/*以下訪問済みのデザイン*/
 .link_button:visited {
-  color: gray;/*譁�ｭ励ｒ繧ｰ繝ｬ繧､縺ｫ*/
+  color: gray;/*文字をグレイに*/
 }
 
 .link_button2 {
-  font-weight: bold;/*螟ｪ蟄励↓*/
-  text-decoration: none;/*荳狗ｷ壽ｶ医☆*/
-  background: skyblue;/*閭梧勹繧呈ｰｴ濶ｲ縺ｫ*/
-  color:white;/*譁�ｭ励ｒ逋ｽ縺ｫ*/
-  padding:5px 10px;/*蜀��縺ｮ菴咏區*/
-  border-radius: 20px;/*隗偵ｒ荳ｸ縺上☆繧�*/
-  font-family: 'Avenir','Arial';/*繝輔か繝ｳ繝医ｒ縺�＞諢溘§縺ｫ*/
+  font-weight: bold;/*太字に*/
+  text-decoration: none;/*下線消す*/
+  background: skyblue;/*背景を水色に*/
+  color:white;/*文字を白に*/
+  padding:5px 10px;/*内側の余白*/
+  border-radius: 20px;/*角を丸くする*/
+  font-family: 'Avenir','Arial';/*フォントをいい感じに*/
 }
-/*莉･荳九き繝ｼ繧ｽ繝ｫ繧貞ｽ薙※縺溘→縺�*/
+/*以下カーソルを当てたとき*/
 .link_button:hover {
-  background: silver;/*閭梧勹濶ｲ繧偵す繝ｫ繝舌�縺ｫ*/
-  text-decoration: none;/*荳狗ｷ壹ｒ豸医☆*/
+  background: silver;/*背景色をシルバーに*/
+  text-decoration: none;/*下線を消す*/
 }
 
-/*莉･荳玖ｨｪ蝠乗ｸ医∩縺ｮ繝�じ繧､繝ｳ*/
+/*以下訪問済みのデザイン*/
 .link_button:visited {
-  color: gray;/*譁�ｭ励ｒ繧ｰ繝ｬ繧､縺ｫ*/
+  color: gray;/*文字をグレイに*/
 }
 
 .link_button3 {
-  font-weight: bold;/*螟ｪ蟄励↓*/
-  text-decoration: none;/*荳狗ｷ壽ｶ医☆*/
-  background: skyblue;/*閭梧勹繧呈ｰｴ濶ｲ縺ｫ*/
-  color:white;/*譁�ｭ励ｒ逋ｽ縺ｫ*/
-  padding:5px 10px;/*蜀��縺ｮ菴咏區*/
-  border-radius: 20px;/*隗偵ｒ荳ｸ縺上☆繧�*/
-  font-family: 'Avenir','Arial';/*繝輔か繝ｳ繝医ｒ縺�＞諢溘§縺ｫ*/
+  font-weight: bold;/*太字に*/
+  text-decoration: none;/*下線消す*/
+  background: skyblue;/*背景を水色に*/
+  color:white;/*文字を白に*/
+  padding:5px 10px;/*内側の余白*/
+  border-radius: 20px;/*角を丸くする*/
+  font-family: 'Avenir','Arial';/*フォントをいい感じに*/
 }
-/*莉･荳九き繝ｼ繧ｽ繝ｫ繧貞ｽ薙※縺溘→縺�*/
+
+.link_button4 {
+  font-weight: bold;/*太字に*/
+  text-decoration: none;/*下線消す*/
+  background: pink;/*背景を水色に*/
+  color:white;/*文字を白に*/
+  padding:5px 10px;/*内側の余白*/
+  border-radius: 20px;/*角を丸くする*/
+  font-family: 'Avenir','Arial';/*フォントをいい感じに*/
+}
+/*以下カーソルを当てたとき*/
+.link_button:hover {
+  background: silver;/*背景色をシルバーに*/
+  text-decoration: none;/*下線を消す*/
+}
+
+/*以下訪問済みのデザイン*/
+.link_button:visited {
+  color: gray;/*文字をグレイに*/
+}
+
+/*以下カーソルを当てたとき*/
 .link_button1:hover {
-  background: silver;/*閭梧勹濶ｲ繧偵す繝ｫ繝舌�縺ｫ*/
-  text-decoration: none;/*荳狗ｷ壹ｒ豸医☆*/
+  background: silver;/*背景色をシルバーに*/
+  text-decoration: none;/*下線を消す*/
 }
 
 .link_button2:hover {
-  background: silver;/*閭梧勹濶ｲ繧偵す繝ｫ繝舌�縺ｫ*/
-  text-decoration: none;/*荳狗ｷ壹ｒ豸医☆*/
+  background: silver;/*背景色をシルバーに*/
+  text-decoration: none;/*下線を消す*/
 }
 
 .link_button3:hover {
-  background: silver;/*閭梧勹濶ｲ繧偵す繝ｫ繝舌�縺ｫ*/
-  text-decoration: none;/*荳狗ｷ壹ｒ豸医☆*/
+  background: silver;/*背景色をシルバーに*/
+  text-decoration: none;/*下線を消す*/
+}
+
+.link_button4:hover {
+  background: silver;/*背景色をシルバーに*/
+  text-decoration: none;/*下線を消す*/
 }
 
 
@@ -209,4 +235,5 @@ footer{
 .follow-me li a[href*="https://twitter.com/home"]:hover::before        { color: #55acee; }
 
 .follow-me li a[href*="https://www.instagram.com"]:hover::before      { color: #12568; }
+
 
