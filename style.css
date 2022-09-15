@@ -193,7 +193,6 @@ footer{
 }
 
 .follow-me li {
-  float: left;
   margin: 0 8px 8px 0;
   padding: 0;
 }
@@ -204,7 +203,6 @@ footer{
   -webkit-border-radius: 2px;
   border-radius: 2px;
   color: #fff;
-  display: inline-block;
   font-family: FontAwesome;
   font-size: 26px;
   height: 42px; /* Button height */
@@ -214,17 +212,4 @@ footer{
   text-align: center;
   width: 142px; /* Button width */
 }
-
-.follow-me li a[href*="twitter.com"]::before        { border-color: #55acee; background-color: #55acee; content: "\f099"; }
-
-.follow-me li a[href*="instagram.com"]::before      { border-color: #125688; background-color: #125688; content: "\f16d"; }
-
-.follow-me li a:hover::before {
-  background-color: #fff;
-}
-
-.follow-me li a[href*="https://twitter.com/home"]:hover::before        { color: #55acee; }
-
-.follow-me li a[href*="https://www.instagram.com"]:hover::before      { color: #12568; }
-
 
